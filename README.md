@@ -47,5 +47,5 @@ python test_model.py
 
 ## Outputs and Logs
 
-- All training loss and WER curves will be saved to the results folder.
-- All model weights and training logs will be saved to the corresponding folder under ```model/weights/```.
+- All training loss and WER curves will be saved to the ```/results``` folder.
+- All model weights and training logs will be saved to the corresponding folder under ```/model/weights```.
